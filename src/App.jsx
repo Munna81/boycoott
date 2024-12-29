@@ -21,7 +21,7 @@
             { id: 5, title: "SUGER", publishYear: 1998 },
             { id: 6, title: "OIL", publishYear: 2005 },
             { id: 7, title: "LAPTOP", publishYear: 2010 },
-            { id: 8, title: "cosmetic", publishYear: 2014 },
+            { id: 8, title: "COSMETIC", publishYear: 2014 },
           ]);
         
           return (
